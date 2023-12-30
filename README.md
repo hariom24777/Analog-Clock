@@ -17,5 +17,5 @@ This is a simple clock application built with HTML, CSS, and JavaScript. It disp
 ## File Structure
 
 - `index.html`: The main HTML file that contains the clock interface.
-- `styles.css`: The CSS file that styles the clock and mode switch button.
+- `style.css`: The CSS file that styles the clock and mode switch button.
 - `script.js`: The JavaScript file that handles the clock functionality and mode switching.
